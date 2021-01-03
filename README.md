@@ -52,9 +52,9 @@ from a binary file.
  external DAT file. 
  
 ### Final result:
- <img srv="/Result11.png">
- <img srv="/Result12.png">
- <img srv="/Result13.png">
+ <img srv="\Result11.png">
+ <img srv="\Result12.png">
+ <img srv="\Result13.png">
  
 ### Conclusion:
 Thus, the project to create a contact book and execute various operations on it has been
